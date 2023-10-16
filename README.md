@@ -17,7 +17,7 @@
 
 • Langkah-langkah Praktikum
 
-• Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
+• Persiapan membuat dokumen HTML dengan nama file ```lab3_list.html``` seperti berikut.
 
 
 ```html
