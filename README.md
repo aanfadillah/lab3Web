@@ -20,7 +20,7 @@
 • Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 
 
-
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -33,3 +33,4 @@
         </header>
     </body>
 </html>
+```
